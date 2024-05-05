@@ -4,7 +4,9 @@ Hi 👋 My name is Ekansh Singh
 Web Developer & Designer
 ------------------------
 
-\- Undergrad student at Thapar Institute of Engineering & Technology (TIET) pursuing B.E. in Electronics and Computer Engineering. - Experienced in Javascript, C++, WordPress Development, Front End Web Development (React), Search Engine Optimization (SEO). - Worked on different projects i.e. ECED, TIET Database Management Portal and Landing Pages for different individual entities
+- Undergrad student at Thapar Institute of Engineering & Technology (TIET) pursuing B.E. in Electronics and Computer Engineering. 
+- Experienced in Javascript, C++, WordPress Development, Front End Web Development (React), Search Engine Optimization (SEO).
+- Worked on different projects i.e. ECED, TIET Database Management Portal and Landing Pages for different individual entities
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/ekanshsinghin/)
