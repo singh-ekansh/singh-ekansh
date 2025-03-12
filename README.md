@@ -1,3 +1,6 @@
+Hi 👋 this side Ekansh Singh
+=============================
+
 - Undergrad student at Thapar Institute of Engineering & Technology (TIET) pursuing B.E. in Electronics and Computer Engineering. 
 - Working on different projects i.e. ECED, TIET Database Management Portal and Landing Pages for different individual entities
 
