@@ -1,14 +1,7 @@
-Hi 👋 My name is Ekansh Singh
-=============================
-
-Web Developer & Designer
-------------------------
-
 - Undergrad student at Thapar Institute of Engineering & Technology (TIET) pursuing B.E. in Electronics and Computer Engineering. 
-- Experienced in Javascript, C++, WordPress Development, Front End Web Development (React), Search Engine Optimization (SEO).
-- Worked on different projects i.e. ECED, TIET Database Management Portal and Landing Pages for different individual entities
+- Working on different projects i.e. ECED, TIET Database Management Portal and Landing Pages for different individual entities
 
-* 🌍  Get latest update regarding my Projects on my [Portfolio Website](https://ekanshsingh.vercel.app/)
+* 🌍  Get the latest update regarding my Projects on my [Portfolio Website](https://ekanshsingh.vercel.app/)
 * 🖥️  Connect with me at [LinkedIn](http://www.linkedin.com/in/ekanshsinghin/)
 * ✉️  You can contact me at [ekanshsingh.in@gmail.com](mailto:ekanshsingh.in@gmail.com)
 * 🚀  I'm currently working on [ECED Database Management Portal](http://https://github.com/Anant1606/TU) and as Developer at ServiceHive
