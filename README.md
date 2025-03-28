@@ -7,7 +7,7 @@ Hi 👋 this side Ekansh Singh
 * 🌍  Get the latest update regarding my Projects on my [Portfolio Website](https://ekanshsingh.vercel.app/)
 * 🖥️  Connect with me at [LinkedIn](http://www.linkedin.com/in/ekanshsinghin/)
 * ✉️  You can contact me at [ekanshsingh.in@gmail.com](mailto:ekanshsingh.in@gmail.com)
-* 🚀  I'm currently working on [ECED Database Management Portal](http://https://github.com/Anant1606/TU) and as Developer at ServiceHive
+* 🚀  I'm currently working on [ECED Database Management Portal](https://github.com/Anant1606/TU) and as Developer at ServiceHive
 * 🧠  I'm learning Data Structures and Algorithm, Backend Development
 * 🤝  I'm open to collaborating on Front-end Web Development & CMS Based Development
 
